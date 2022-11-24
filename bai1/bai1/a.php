@@ -1,1 +1,0 @@
-<?php echo "chao the gioi" ?>
